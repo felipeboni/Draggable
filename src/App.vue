@@ -147,12 +147,12 @@ export default {
   data() {
     return {
       list1: [
-        { id: 1, name: "Agente 1001" },
-        { id: 2, name: "Agente 1002" },
-        { id: 3, name: "Agente 1003" },
-        { id: 4, name: "Agente 1004" },
-        { id: 5, name: "Agente 1005" },
-        { id: 6, name: "Agente 1006" },
+        { id: 1, name: "1" },
+        { id: 2, name: "2" },
+        { id: 3, name: "3" },
+        { id: 4, name: "4" },
+        { id: 5, name: "5" },
+        { id: 6, name: "6" },
       ],
       list2: [],
       list3: [],
